@@ -25,11 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: DestinyWei
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Hong_Kong
-          plugin_calendar: yes
-          plugin_calendar_limit: 3
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
