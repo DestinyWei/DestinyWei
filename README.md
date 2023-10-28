@@ -1,5 +1,5 @@
-![Website Badge](https://img.shields.io/badge/-Howe's%20Blog-0418?style=flat&logo=Google-Chrome&logoColor=f2f2f2&color=grey&link=https://blog.0xhowe.top)
-![Twitter Badge](https://img.shields.io/badge/-cryptoHowe.eth-0418?style=flat&logo=twitter&logoColor=white&labelColor=1ca0f1&color=1ca0f1&link=https://twitter.com/weihaoming)
+[![Website Badge](https://img.shields.io/badge/-Howe's%20Blog-0418?style=flat&logo=Google-Chrome&logoColor=f2f2f2&color=grey&link=https://blog.0xhowe.top)](https://blog.0xhowe.top)
+[![Twitter Badge](https://img.shields.io/badge/-cryptoHowe.eth-0418?style=flat&logo=twitter&logoColor=white&labelColor=1ca0f1&color=1ca0f1&link=https://twitter.com/weihaoming)](https://twitter.com/weihaoming)
 
 <!--START_SECTION:waka-->
 
