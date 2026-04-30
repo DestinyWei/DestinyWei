@@ -1,7 +1,7 @@
 # Hi  👋, I'm Howe. A student majoring in Blockchian engineering. Web3 buidler and researcher. Welcome to my Github!
 
 [![Website Badge](https://img.shields.io/badge/-Howe's%20Blog-0418?style=flat&logo=Google-Chrome&logoColor=f2f2f2&color=grey&link=https://blog.0xhowe.top)](https://blog.0xhowe.top)
-[![Twitter Badge](https://img.shields.io/badge/-cryptoHowe.eth-0418?style=flat&logo=twitter&logoColor=white&labelColor=1ca0f1&color=1ca0f1&link=https://twitter.com/weihaoming)](https://twitter.com/weihaoming)
+[![Twitter Badge](https://img.shields.io/badge/-cryptoHowe.eth-0418?style=flat&logo=twitter&logoColor=white&labelColor=1ca0f1&color=1ca0f1&link=https://twitter.com/0xcryproHowe)](https://twitter.com/0xcryproHowe)
 
 <!--START_SECTION:waka-->
 
