@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="neutronstarpro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="neutronstarpro" /></p>
 
 <!--
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DestinyWei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyWei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-698%20hrs%2035%20mins-blue)
 
