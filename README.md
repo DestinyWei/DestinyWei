@@ -6,10 +6,10 @@
 <!--START_SECTION:waka-->
 
 <p>
-  <img align="center" src="https://github-readme-stats-green-phi-55.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="DestinyWei GitHub stats" />
+  <img src="https://github-readme-stats-green-phi-55.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="DestinyWei GitHub stats" />
 </p>
 
-<p align="center">
+<p>
   <img src="./github-metrics.svg" alt="GitHub metrics" />
 </p>
 
