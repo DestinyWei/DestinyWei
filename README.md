@@ -5,7 +5,10 @@
 
 <!--START_SECTION:waka-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="neutronstarpro" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DestinyWei&show_icons=true&locale=en" alt="neutronstarpro" /></p> -->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" />
+</p>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DestinyWei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
